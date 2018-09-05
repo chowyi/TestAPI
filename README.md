@@ -1,3 +1,2 @@
 # TestAPI
-this is group A
-new feature 1.
+new feature 1
