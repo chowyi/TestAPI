@@ -1,2 +1,2 @@
 # TestAPI
-new feature 1
+feature 1
